@@ -1,5 +1,6 @@
 import { FaEnvelope, FaGithub, FaLinkedin, FaWhatsapp } from 'react-icons/fa'
 import { useLanguage } from '../context/LanguageContext'
+import Feedback from './Feedback'
 
 const contacts = [
   {
@@ -76,6 +77,8 @@ export default function Contact() {
             )
           })}
         </div>
+
+        <Feedback />
         </div>
       </div>
     </section>

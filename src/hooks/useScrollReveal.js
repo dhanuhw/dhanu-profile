@@ -2,7 +2,7 @@ import { useEffect } from 'react'
 
 export function useScrollReveal() {
   useEffect(() => {
-    const elements = document.querySelectorAll('.reveal')
+    const observed = new WeakSet()
 
     const observer = new IntersectionObserver(
       (entries) => {
@@ -13,11 +13,26 @@ export function useScrollReveal() {
           }
         })
       },
-      { threshold: 0.12, rootMargin: '0px 0px -40px 0px' },
+      { threshold: 0.08, rootMargin: '0px 0px -20px 0px' },
     )
 
-    elements.forEach((el) => observer.observe(el))
+    const observeElements = () => {
+      document.querySelectorAll('.reveal:not(.visible)').forEach((el) => {
+        if (!observed.has(el)) {
+          observed.add(el)
+          observer.observe(el)
+        }
+      })
+    }
 
-    return () => observer.disconnect()
+    observeElements()
+    const timer = setTimeout(observeElements, 300)
+    window.addEventListener('load', observeElements)
+
+    return () => {
+      clearTimeout(timer)
+      window.removeEventListener('load', observeElements)
+      observer.disconnect()
+    }
   }, [])
 }
