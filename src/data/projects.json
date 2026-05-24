@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Website Company Profile",
+    "description": "Website company profile responsive menggunakan React dan Tailwind CSS dengan animasi halus.",
+    "image": "/projects/project-1.svg",
+    "technologies": ["React", "Tailwind"],
+    "github": "https://github.com/example/company-profile",
+    "demo": "https://example.com"
+  },
+  {
+    "id": 2,
+    "title": "E-Commerce Dashboard",
+    "description": "Dashboard admin untuk mengelola produk, pesanan, dan laporan penjualan secara real-time.",
+    "image": "/projects/project-2.svg",
+    "technologies": ["React", "Node.js", "MySQL"],
+    "github": "https://github.com/example/ecommerce-dashboard",
+    "demo": "https://example.com"
+  },
+  {
+    "id": 3,
+    "title": "Task Management App",
+    "description": "Aplikasi manajemen tugas dengan drag-and-drop, filter, dan penyimpanan lokal.",
+    "image": "/projects/project-3.svg",
+    "technologies": ["JavaScript", "CSS", "HTML"],
+    "github": "https://github.com/example/task-app",
+    "demo": "https://example.com"
+  },
+  {
+    "id": 4,
+    "title": "Blog Platform",
+    "description": "Platform blog dengan markdown editor, kategori, dan sistem komentar sederhana.",
+    "image": "/projects/project-4.svg",
+    "technologies": ["React", "Node.js", "Tailwind"],
+    "github": "https://github.com/example/blog-platform",
+    "demo": "https://example.com"
+  },
+  {
+    "id": 5,
+    "title": "Weather Forecast",
+    "description": "Aplikasi cuaca yang menampilkan prakiraan 7 hari berdasarkan lokasi pengguna.",
+    "image": "/projects/project-5.svg",
+    "technologies": ["React", "API"],
+    "github": "https://github.com/example/weather-app",
+    "demo": "https://example.com"
+  },
+  {
+    "id": 6,
+    "title": "Portfolio Generator",
+    "description": "Generator portfolio otomatis dari data JSON — cocok untuk developer yang ingin deploy cepat.",
+    "image": "/projects/project-6.svg",
+    "technologies": ["React", "Vite", "Tailwind"],
+    "github": "https://github.com/example/portfolio-generator",
+    "demo": "https://example.com"
+  }
+]

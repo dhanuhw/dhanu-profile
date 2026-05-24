@@ -1,0 +1,62 @@
+[
+  {
+    "id": "maz-cakti",
+    "company": "PT. MAZ Nusantara Cakti",
+    "role": {
+      "id": "App Operations",
+      "en": "App Operations"
+    },
+    "project": {
+      "id": "Proyek Telkomsel",
+      "en": "Telkomsel Project"
+    },
+    "period": {
+      "id": "Agu 2025 — Sekarang",
+      "en": "Aug 2025 — Present"
+    },
+    "description": {
+      "id": "Mengelola operasional dan pertumbuhan aplikasi MTB secara menyeluruh, mulai dari analisis metrik pengguna (MAU & Installers) hingga penjadwalan dan peluncuran kampanye promosi mingguan. Menjembatani fungsi teknis dan marketing melalui eksekusi konfigurasi sistem, pengujian kelayakan fitur (FUT), serta penyusunan copy banner yang selaras dengan strategi SEO tim Content. Menganalisis dan menindaklanjuti sentimen pengguna di Google Play Console dan App Store Connect, serta menyusun laporan kinerja (WoW & MoM) untuk keputusan manajemen berbasis data.",
+      "en": "Manage end-to-end MTB app operations and growth, from user metric analysis (MAU & Installers) to scheduling and launching weekly promotional campaigns. Bridge technical and marketing functions through system configuration execution, feature usability testing (FUT), and banner copy aligned with the Content team's SEO strategy. Analyze and address user sentiment on Google Play Console and App Store Connect, and prepare performance reports (WoW & MoM) for data-driven management decisions."
+    }
+  },
+  {
+    "id": "nbj-digital-enabler",
+    "company": "PT. Nusantara Baskara Jaya",
+    "role": {
+      "id": "Staff Admin Web Digital Enabler",
+      "en": "Web Digital Enabler Admin Staff"
+    },
+    "project": {
+      "id": "Proyek Telkomsel",
+      "en": "Telkomsel Project"
+    },
+    "period": {
+      "id": "Des 2024 — Agu 2025",
+      "en": "Dec 2024 — Aug 2025"
+    },
+    "description": {
+      "id": "Bertanggung jawab atas manajemen platform digital untuk meningkatkan keterlibatan dan loyalitas pelanggan, bekerja langsung di bawah manajer WEC Telkomsel. Merancang dan mengelola konten kampanye kreatif seperti kuis interaktif dan Key Visual (KV). Menjaga kepuasan pelanggan dengan menyelesaikan keluhan teknis terkait pembelian eSIM dan mengelola ulasan pengguna di Play Store.",
+      "en": "Responsible for digital platform management to increase customer engagement and loyalty, working directly under Telkomsel's WEC manager. Design and manage creative campaign content such as interactive quizzes and Key Visuals (KV). Maintain customer satisfaction by resolving technical complaints related to eSIM purchases and managing user reviews on the Play Store."
+    }
+  },
+  {
+    "id": "nbj-platform-ops",
+    "company": "PT. Nusantara Baskara Jaya",
+    "role": {
+      "id": "Tim Operasional Bisnis Platform",
+      "en": "Platform Business Operations Team"
+    },
+    "project": {
+      "id": "Proyek Telkomsel",
+      "en": "Telkomsel Project"
+    },
+    "period": {
+      "id": "Agu 2024 — Des 2024",
+      "en": "Aug 2024 — Dec 2024"
+    },
+    "description": {
+      "id": "Berperan dalam operasional portal Telkomsel.com melalui pengujian fungsional dan pelaporan harian, serta berkolaborasi dengan tim konten untuk konfigurasi produk. Mengeksekusi rencana kampanye bisnis, khususnya peluncuran dan optimasi kampanye MyTelkomsel Quiz untuk meningkatkan profitabilitas perusahaan.",
+      "en": "Supported Telkomsel.com portal operations through functional testing and daily reporting, while collaborating with the content team on product configuration. Executed business campaign plans, especially launching and optimizing the MyTelkomsel Quiz campaign to increase company profitability."
+    }
+  }
+]

@@ -1,0 +1,104 @@
+export const translations = {
+  id: {
+    nav: {
+      home: 'Beranda',
+      about: 'Tentang',
+      projects: 'Proyek',
+      contact: 'Kontak',
+    },
+    hero: {
+      greeting: 'Halo, saya',
+      name: 'Dhanu Hariwijaya',
+      title: 'Profesional App Operations',
+      bio: 'Memulai perjalanan profesional dari latar belakang hukum (Sarjana Hukum) memberi saya pondasi berpikir analitis, logis, dan detail. Ketertarikan yang besar pada pertumbuhan produk digital membawa saya melakukan career switch ke ranah operasional aplikasi. Kini, dengan pengalaman hampir dua tahun di MyTelkomsel Business Operations Support, saya bertanggung jawab atas kelancaran operasional platform, pengujian fungsional sistem, hingga optimalisasi kampanye pemasaran digital. Saya senang menjembatani kebutuhan teknis dengan tujuan bisnis, menerjemahkan data pengguna seperti MAU menjadi langkah strategis, serta memastikan reputasi digital aplikasi tetap terjaga demi kenyamanan pengguna.',
+      ctaProjects: 'Lihat Proyek',
+      ctaContact: 'Hubungi Saya',
+      profileAlt: 'Foto profil Dhanu Hariwijaya',
+    },
+    about: {
+      title: 'Tentang Saya',
+      subtitle:
+        'Profesional App Operations yang fokus pada pertumbuhan platform, kampanye digital, dan pengalaman pengguna.',
+      summaryTitle: 'Ringkasan',
+      summary:
+        'Profesional App Operations yang berorientasi pada hasil, berpengalaman dalam analisis pertumbuhan platform, konfigurasi teknis aplikasi (GitLab/JSON), dan manajemen kampanye digital. Terampil memantau tren MAU, mengelola sentimen pengguna di app store, serta berkoordinasi dengan tim lintas fungsi untuk memastikan peluncuran fitur berjalan lancar dan keterlibatan pengguna maksimal.',
+      experienceTitle: 'Pengalaman Kerja',
+      skillsTitle: 'Skill Utama',
+    },
+    projects: {
+      title: 'Portfolio Proyek',
+      subtitleBefore: 'Kumpulan project yang pernah saya kerjakan. Data diambil dari',
+      subtitleAfter: '.',
+      demo: 'Demo',
+      github: 'Github',
+    },
+    contact: {
+      title: 'Hubungi Saya',
+      subtitle:
+        'Tertarik berkolaborasi atau punya pertanyaan? Silakan hubungi melalui channel di bawah.',
+    },
+    footer: {
+      copyright: 'Hak cipta dilindungi.',
+      madeWith: 'Dibuat dengan React & Tailwind CSS',
+    },
+    a11y: {
+      lightMode: 'Aktifkan mode terang',
+      darkMode: 'Aktifkan mode gelap',
+      openMenu: 'Buka menu',
+      menu: 'Menu',
+      backToTop: 'Kembali ke atas',
+      language: 'Ubah bahasa',
+    },
+  },
+  en: {
+    nav: {
+      home: 'Home',
+      about: 'About',
+      projects: 'Projects',
+      contact: 'Contact',
+    },
+    hero: {
+      greeting: 'Hello, I am',
+      name: 'Dhanu Hariwijaya',
+      title: 'App Operations Professional',
+      bio: 'Starting my professional journey from a legal background (Bachelor of Law) gave me a foundation for analytical, logical, and detail-oriented thinking. A strong interest in digital product growth led me to switch careers into app operations. Today, with nearly two years of experience at MyTelkomsel Business Operations Support, I am responsible for smooth platform operations, functional system testing, and optimization of digital marketing campaigns. I enjoy bridging technical needs with business goals, translating user data such as MAU into strategic actions, and ensuring the app\'s digital reputation remains strong for user satisfaction.',
+      ctaProjects: 'View Projects',
+      ctaContact: 'Contact Me',
+      profileAlt: 'Profile photo of Dhanu Hariwijaya',
+    },
+    about: {
+      title: 'About Me',
+      subtitle:
+        'App Operations professional focused on platform growth, digital campaigns, and user experience.',
+      summaryTitle: 'Summary',
+      summary:
+        'Results-driven App Operations professional experienced in platform growth analysis, technical app configurations (GitLab/JSON), and digital campaign management. Skilled at monitoring MAU trends, managing user sentiment on app stores, and coordinating with cross-functional teams to ensure seamless feature rollouts and maximum user engagement.',
+      experienceTitle: 'Work Experience',
+      skillsTitle: 'Core Skills',
+    },
+    projects: {
+      title: 'Project Portfolio',
+      subtitleBefore: 'A collection of projects I have worked on. Data is loaded from',
+      subtitleAfter: '.',
+      demo: 'Demo',
+      github: 'Github',
+    },
+    contact: {
+      title: 'Contact Me',
+      subtitle:
+        'Interested in collaborating or have a question? Reach out through the channels below.',
+    },
+    footer: {
+      copyright: 'All rights reserved.',
+      madeWith: 'Made with React & Tailwind CSS',
+    },
+    a11y: {
+      lightMode: 'Enable light mode',
+      darkMode: 'Enable dark mode',
+      openMenu: 'Open menu',
+      menu: 'Menu',
+      backToTop: 'Back to top',
+      language: 'Change language',
+    },
+  },
+}
